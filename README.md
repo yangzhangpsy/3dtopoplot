@@ -1,6 +1,7 @@
 Useage：
 
 Step1： added the toolbox into the path of MATLAB(e.g., via addpath(genpath('TheFileFolder'));  );
+
 Step2: >> topoplot_bcl % in the commandwindow of MATLAB to see the help info.
         Or >> help topoplot_bcl
         to see the help info.
