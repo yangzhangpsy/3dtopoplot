@@ -7,12 +7,15 @@ Step1： added the toolbox into the path of MATLAB(e.g., via addpath(genpath('Th
 Step2: >> topoplot_bcl % in the commandwindow of MATLAB to see the help info.
 
 
-        Or >> help topoplot_bcl
+        Or 
+        
+        >> help topoplot_bcl
+        
         to see the help info.
 
 
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 1) If you do think this function is usefull and have used it in your study, please cite our paper:
 Li A-S, Miao C-G, Han Y, He X and Zhang Y (2018)
 Electrophysiological Correlates of the Effect of Task Difficulty on Inhibition of Return. Front. Psychol. 9:2403.
