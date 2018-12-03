@@ -30,6 +30,7 @@ A possible discription in your paper:
 2) If your alreadly installed EEGLAB, then it is unnessary to download the "externBorrowedFuns" folder.
 
 Yang Zhang
+
 yzhangpsy at suda.edu.cn
 
 Department of Psychology
