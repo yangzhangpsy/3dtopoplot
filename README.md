@@ -1,3 +1,6 @@
+
+
+
 Useage：
 
 Step1： added the toolbox into the path of MATLAB(e.g., via addpath(genpath('TheFileFolder'));  );
@@ -28,5 +31,7 @@ A possible discription in your paper:
 
 Yang Zhang
 yzhangpsy at suda.edu.cn
+
 Department of Psychology
+
 Soochow University
