@@ -19,6 +19,9 @@ Step2: >> topoplot_bcl % in the commandwindow of MATLAB to see the help info.
 
 
 
+
+A concise interpretation of the demo usage:
+![image](https://raw.githubusercontent.com/yangzhangpsy/3dtopoplot/master/interpretation.png)
 %-------------------------------------------------------------------------------------
     
 1) If your alreadly installed EEGLAB, then it is unnessary to download the "externBorrowedFuns" folder.
