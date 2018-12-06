@@ -32,6 +32,6 @@ A possible discription in your paper:
 “The topographic map was generated with Yang's topoplot_bcl function based on EEGLAB's topoplot function”
 
 Yang Zhang
- yzhangpsy at suda dot edu dot cn
- Department of Psychology
- Soochow University
+, yzhangpsy at suda dot edu dot cn
+, Department of Psychology
+, Soochow University
