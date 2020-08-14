@@ -4,7 +4,7 @@
 
 Useage：
 
-Step1： added the toolbox into the path of MATLAB(e.g., via addpath(genpath('TheFileFolder'));  );
+Step1： added the toolbox into the path of MATLAB(e.g., via addpath(genpath('TheFileFolder'));
 
         Or just run install3Dtopoplot to automatically install the toolbox.
 
